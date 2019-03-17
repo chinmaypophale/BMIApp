@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp">
+
+            <TextView
+                android:id="@+id/heartdisease"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Anaemia:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/heartdiseasesrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/heartdiseasesrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/heartdiseasesrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Warm water with half teaspoon Cumin seeds, Skimmed milk,oats upma"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/heartdiseasesrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/heartdiseasesrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Midmeal"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/heartdiseasesrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Carrot juice,Fruits"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/heartdiseasesrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/heartdiseasesrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/heartdiseasesrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cucumber,Phulka,mixed vegetables,dal and butter"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/heartdiseasesrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/heartdiseasesrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/heartdiseasesrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Fruits,Garlic,Khakra"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/heartdiseasesrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/heartdiseasesrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/heartdiseasesrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Cucumber,Phulka,mixed vegetables,dal and butter."
+                android:textSize="15dp"
+                />
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
