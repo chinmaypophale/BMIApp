@@ -14,6 +14,160 @@
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp">
 
+
+            <TextView
+                android:id="@+id/malnutrition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Cancer:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/malnutritionsrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/malnutritionsrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Pre-Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/malnutritionsrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Apple Juice or Orange Juice,5-6 Almonds"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/malnutritionsrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/malnutritionsrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/malnutritionsrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 17g Oats,1 cup Chocolate milk "
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/malnutritionsrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/malnutritionsrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/malnutritionsrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Spinach,Broccoli,Mushroom,legumes,1 Wheat Chapati,Half bowl Yoghurt"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/malnutritionsrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/malnutritionsrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/malnutritionsrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Watermelon Juice,5-6 Almonds"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/malnutritionsrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/malnutritionsrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/malnutritionsrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Any leafy green vegetables,Half bowl Brown Rice,1-2 Chapati"
+                android:textSize="15dp"
+                />
+
         </LinearLayout>
 
     </ScrollView>

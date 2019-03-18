@@ -14,6 +14,159 @@
             android:layout_marginLeft="5dp"
             android:layout_marginRight="5dp">
 
+            <TextView
+                android:id="@+id/pcos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Pcos:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/pcossrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/pcossrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/pcossrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 1 small serving of fruit + Protein 2-3 whole eggs, paneer, protein shake, Upma."
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/pcossrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/pcossrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/pcossrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food =  Lean Protein-2-4 egg whites, chicken breast, fish, paneer + Complex Carbohydrate-2 rotis/ bowl of brown rice, upma + Dal + Salad without potato."
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/pcossrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/pcossrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snack Time"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/pcossrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Small serving of Complex carb-1 multi grain toast, bowl of upma, oats + Tea/Coffee (with 1 Tsp sugar."
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/pcossrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/pcossrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Post Workout"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/pcossrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Small bowl of fruits."
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/pcossrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/pcossrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Post Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/pcossrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Same as lunch but avoid Carbohydrate. Replace Carb with Salad."
+                android:textSize="15dp"
+                />
+
         </LinearLayout>
 
     </ScrollView>

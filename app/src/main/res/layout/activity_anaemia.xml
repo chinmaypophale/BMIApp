@@ -41,7 +41,7 @@
                 android:id="@+id/anaemiasrno1schedule"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Schedule  =  Pre-breakfast"
+                android:text="Schedule  =  Pre-Breakfast"
                 android:textSize="15dp"
                 />
             <TextView
