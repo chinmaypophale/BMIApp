@@ -3,16 +3,20 @@
     xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+
+
     <ScrollView
         android:layout_width="match_parent"
         android:layout_height="match_parent">
 
+        <!--Anaemia-->
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:orientation="vertical"
             android:layout_marginLeft="5dp"
-            android:layout_marginRight="5dp">
+            android:layout_marginRight="5dp"
+            >
 
 
             <TextView
@@ -170,8 +174,1910 @@
 
 
 
+            <!--Cancer-->
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+
+            <TextView
+                android:id="@+id/cancer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Cancer:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                android:background="#fafafa"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/cancersrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/cancersrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Pre-Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/cancersrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Green Tea, Juice of 5-6 Madagascar Periwinkle(Sadabahar) leaves + 2 Spoon Tomato"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/cancersrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/cancersrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/cancersrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food =  1 bowl of Grapes + Kiwi + Berries"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/cancersrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/cancersrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/cancersrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 1 Multigrain Roti, Broccoli, Tomato, Spinach,half bowl Yoghurt"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/cancersrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/cancersrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/cancersrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 1 bowl of Pomegranate"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/cancersrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/cancersrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/cancersrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 2 Phulkas, Mushroom vegetable, Spinach, Garlic chutney or half bowl Brown Rice, Vegetable Pulav"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <!--Diabetes-->
+            <TextView
+                android:id="@+id/diabetes"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Diabetes:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/diabetessrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/diabetessrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Pre-Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/diabetessrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Fenugreek seeds in boiled water"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/diabetessrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/diabetessrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/diabetessrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Oats,Stuff Methi,2 Eggs,1 cup warm Water with Lemon "
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/diabetessrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/diabetessrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/diabetessrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Salad(Cucumber+Tomato),2 Phulkas,1 bowl dal,curd,any vegetable"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/diabetessrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/diabetessrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/diabetessrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Milk or lemon water or green tea."
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/diabetessrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/diabetessrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/diabetessrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Salad, Bajra or Jowar roti,green leafy vegetable."
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+
+            <!--Diarrhoea-->
+
+
+            <TextView
+                android:id="@+id/diarrhoea"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Diarrhoea:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/diarrhoeasrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/diarrhoeasrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/diarrhoeasrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Boil an Apple,two slices of White Bread.Drink an infusion of Sage leaves"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/diarrhoeasrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/diarrhoeasrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Brunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/diarrhoeasrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food =  Carrot juice"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/diarrhoeasrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/diarrhoeasrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/diarrhoeasrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = White Rice with a bit of Olive oil.A boiled Apple and two slices of White Bread.Infusion of Sage leaves "
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/diarrhoeasrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/diarrhoeasrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/diarrhoeasrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Pear Juice"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/diarrhoeasrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/diarrhoeasrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Evening Meal"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/diarrhoeasrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = A Banana,white bread toast with Blueberry Jam.An Infusion of Chamomile "
+                android:textSize="15dp"
+                />
+
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+                <!--Food Poisioning-->
+
+
+            <TextView
+                android:id="@+id/foodpoision"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Food Poisioning:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/foodpoisionsrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/foodpoisionsrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Pre-Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/foodpoisionsrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 2 Plain toasts,Half Bowl Yoghurt,1 Banana"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/foodpoisionsrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/foodpoisionsrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/foodpoisionsrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food =  If Required Oat meal otherwise do not eat"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/foodpoisionsrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/foodpoisionsrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/foodpoisionsrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Rice,Plain potato Sabji(Avoid chapati,Fried Food)"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/foodpoisionsrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/foodpoisionsrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/foodpoisionsrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 2 boiled Eggs or 2 Breads with Apple jam"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/foodpoisionsrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/foodpoisionsrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/foodpoisionsrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Rice, Cereals"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <!--Heart Disease-->
+
+            <TextView
+                android:id="@+id/heartdisease"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Heart Disease:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/heartdiseasesrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/heartdiseasesrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/heartdiseasesrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Warm water with half teaspoon Cumin seeds, Skimmed milk,oats upma"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/heartdiseasesrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/heartdiseasesrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Midmeal"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/heartdiseasesrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Carrot juice,Fruits"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/heartdiseasesrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/heartdiseasesrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/heartdiseasesrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cucumber,Phulka,mixed vegetables,dal and butter"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/heartdiseasesrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/heartdiseasesrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/heartdiseasesrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Fruits,Garlic,Khakra"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/heartdiseasesrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/heartdiseasesrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/heartdiseasesrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Cucumber,Phulka,mixed vegetables,dal and butter."
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <!--Malnutrition-->
+
+
+            <TextView
+                android:id="@+id/malnutrition"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Malnutrition:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/malnutritionsrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/malnutritionsrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Pre-Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/malnutritionsrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Apple Juice or Orange Juice,5-6 Almonds"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/malnutritionsrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/malnutritionsrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/malnutritionsrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 17g Oats,1 cup Chocolate milk "
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/malnutritionsrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/malnutritionsrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/malnutritionsrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Spinach,Broccoli,Mushroom,legumes,1 Wheat Chapati,Half bowl Yoghurt"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/malnutritionsrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/malnutritionsrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/malnutritionsrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Watermelon Juice,5-6 Almonds"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/malnutritionsrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/malnutritionsrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/malnutritionsrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Any leafy green vegetables,Half bowl Brown Rice,1-2 Chapati"
+                android:textSize="15dp"
+                />
+
+
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <!--pcos-->
+
+
+            <TextView
+                android:id="@+id/pcos"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Pcos:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/pcossrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/pcossrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/pcossrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 1 small serving of fruit + Protein 2-3 whole eggs, paneer, protein shake, Upma."
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/pcossrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/pcossrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/pcossrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food =  Lean Protein-2-4 egg whites, chicken breast, fish, paneer + Complex Carbohydrate-2 rotis/ bowl of brown rice, upma + Dal + Salad without potato."
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/pcossrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/pcossrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snack Time"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/pcossrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Small serving of Complex carb-1 multi grain toast, bowl of upma, oats + Tea/Coffee (with 1 Tsp sugar."
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/pcossrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/pcossrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Post Workout"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/pcossrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Small bowl of fruits."
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/pcossrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/pcossrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Post Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/pcossrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Same as lunch but avoid Carbohydrate. Replace Carb with Salad."
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <!--thyroid-->
+
+            <TextView
+                android:id="@+id/thyroid"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Thyroid:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/thyroidsrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/thyroidsrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Pre-Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/thyroidsrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Vegetable poha,1 glass of Buttermilk,5 Soaked almonds"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/thyroidsrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/thyroidsrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/thyroidsrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food =  Bowl of fruit chaat "
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/thyroidsrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/thyroidsrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/thyroidsrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Bowl of salad, Dal, some seasonal cooked vegetables, whole wheat chapati"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/thyroidsrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/thyroidsrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/thyroidsrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food =  Sprout chaat or fruit with curd"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/thyroidsrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/thyroidsrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/thyroidsrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Bowl of soup or salad, bowl of vegetables,whole wheat chapati"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <!--normal-->
+            <TextView
+                android:id="@+id/normal"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Normal:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/normalsrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/normalsrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Pre-Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/normalsrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Vegetables Juice,1-Glass coconut Water or Cucumber Juice"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/normalsrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/normalsrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/normalsrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food =  1 bowl Freash seasonal Fruits(avoid bananas)."
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/normalsrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/normalsrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/normalsrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 2 Chapatis,Any leafy vegetables(Avoid rajma,chana),Half bowl Brown rice"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/normalsrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/normalsrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/normalsrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Herbal Tea or Fresh Juice of Any Vegetables,coconut slices(If hungry)"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/normalsrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/normalsrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/normalsrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food Vegetables salad,soup(without oil)."
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <!--obese-->
+
+            <TextView
+                android:id="@+id/obese"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Obese :"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/obesesrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/obesesrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/obesesrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 2 eggs or mushroom omlet or cauliflower toast with avocado ,coconut milk "
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/obesesrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/obesesrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/obesesrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food =  Tuna salad with celery and tomato,1 bowl cauliflower rice or hard boiled eggs"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/obesesrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/obesesrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/obesesrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Coconut chicken curry or zucchini noodles or pork chop with vegetables or grilled salmon with spinach"
+                android:textSize="15dp"
+                />
+
+
+
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <!--overweight-->
+
+            <TextView
+                android:id="@+id/overweight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Overweight:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/overweightsrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/overweightsrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Pre-Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/overweightsrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 5-6 almonds"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/overweightsrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/overweightsrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/overweightsrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food =  2 Brown breads or 2 chapatis or 1 cup oats"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/overweightsrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/overweightsrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/overweightsrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = Tomato + carrot salad, 1 roti, mix sabji,half bowl dal"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/overweightsrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/overweightsrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/overweightsrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 5-6 almonds or 1 glass milk"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/overweightsrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/overweightsrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/overweightsrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Green leafy vegetable,2-3 chapatis"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+
+            <!--underweight-->
+
+
+            <TextView
+                android:id="@+id/underweight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Diet Plan for Underweight:"
+                android:textSize="20dp"
+                android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/underweightsrno1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 1"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/underweightsrno1schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Pre-breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/underweightsrno1food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food = 1 cup of tea or coffee with full cream milk and 2 biscuits."
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+
+            <TextView
+                android:id="@+id/underweightsrno2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 2"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/underweightsrno2schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Breakfast"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/underweightsrno2food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Food =  1 Orange,cereal with milk and sugar,1 boiled egg,whole wheat toast"
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/underweightsrno3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 3"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/underweightsrno3schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Lunch"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/underweightsrno3food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Half cup soup,meat or fish or poultry,potato or rice,vegetable or salad."
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/underweightsrno4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 4"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/underweightsrno4schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Snacks"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/underweightsrno4food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2 Breads with Cheese"
+                android:textSize="15dp"
+                />
+
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/underweightsrno5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Sr. No. : 5"
+                android:textSize="15dp"
+                />
+
+            <TextView
+                android:id="@+id/underweightsrno5schedule"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Schedule  =  Dinner"
+                android:textSize="15dp"
+                />
+            <TextView
+                android:id="@+id/underweightsrno5food"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Half cup soup,meat or fish or poultry,potato or rice,vegetable or salad."
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
 
         </LinearLayout>
+
+
+
+
+
+
+
+
     </ScrollView>
 
 

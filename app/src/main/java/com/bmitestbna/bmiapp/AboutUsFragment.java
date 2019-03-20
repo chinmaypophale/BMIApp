@@ -18,6 +18,8 @@ public class AboutUsFragment extends Fragment {
         getActivity().setTitle("About Us");
 
 
+
+
         return inflater.inflate(R.layout.aboutus_fragment, container, false);
     }
 }

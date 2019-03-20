@@ -1,19 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout
-    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:layout_marginRight="10dp"
     android:layout_marginLeft="10dp"
     android:layout_marginTop="10dp">
 
 
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="1800dp"
+        android:layout_height="160dp"
+        android:layout_marginTop="2dp"
+        android:layout_centerHorizontal="true"
+        app:srcCompat="@drawable/dietpluslogo" />
+
     <TextView
         android:id="@+id/textView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="160dp"
+        android:layout_marginRight="5dp"
+        android:autoSizeTextType="uniform"
+        android:textStyle="normal"
         android:text="Nutrition is a basic need for every individual and to maintain a healthy life a proper diet is essential.
 We, students of Modern Education Society College of Engineering, Pune have developed an app
-“Just Diet” which is used to suggest diet plans to the people based on their height, weight, BMI and
+“Diet Plus” which is used to suggest diet plans to the people based on their height, weight, BMI and
 disease which will help them to have a proper diet and maintain their health."
-        android:textSize="20dp"/>
+        android:textSize="20dp" />
+
+
 </RelativeLayout>

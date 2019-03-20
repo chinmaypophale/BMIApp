@@ -15,10 +15,10 @@
             android:layout_marginRight="5dp">
 
             <TextView
-                android:id="@+id/cancer"
+                android:id="@+id/diarrhoea"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Diet Plan for Cancer:"
+                android:text="Diet Plan for Diarrhoea:"
                 android:textSize="20dp"
                 android:textStyle="bold"
                 />
@@ -29,7 +29,7 @@
                 android:background="?android:attr/listDivider"/>
 
             <TextView
-                android:id="@+id/cancersrno1"
+                android:id="@+id/diarrhoeasrno1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Sr. No. : 1"
@@ -37,14 +37,14 @@
                 />
 
             <TextView
-                android:id="@+id/cancersrno1schedule"
+                android:id="@+id/diarrhoeasrno1schedule"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Schedule  =  Breakfast"
                 android:textSize="15dp"
                 />
             <TextView
-                android:id="@+id/cancersrno1food"
+                android:id="@+id/diarrhoeasrno1food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Food = Boil an Apple,two slices of White Bread.Drink an infusion of Sage leaves"
@@ -59,7 +59,7 @@
 
 
             <TextView
-                android:id="@+id/cancersrno2"
+                android:id="@+id/diarrhoeasrno2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Sr. No. : 2"
@@ -67,14 +67,14 @@
                 />
 
             <TextView
-                android:id="@+id/cancersrno2schedule"
+                android:id="@+id/diarrhoeasrno2schedule"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Schedule  =  Brunch"
                 android:textSize="15dp"
                 />
             <TextView
-                android:id="@+id/cancersrno2food"
+                android:id="@+id/diarrhoeasrno2food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Food =  Carrot juice"
@@ -87,7 +87,7 @@
                 android:background="?android:attr/listDivider"/>
 
             <TextView
-                android:id="@+id/cancersrno3"
+                android:id="@+id/diarrhoeasrno3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Sr. No. : 3"
@@ -95,14 +95,14 @@
                 />
 
             <TextView
-                android:id="@+id/cancersrno3schedule"
+                android:id="@+id/diarrhoeasrno3schedule"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Schedule  =  Lunch"
                 android:textSize="15dp"
                 />
             <TextView
-                android:id="@+id/cancersrno3food"
+                android:id="@+id/diarrhoeasrno3food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Food = White Rice with a bit of Olive oil.A boiled Apple and two slices of White Bread.Infusion of Sage leaves "
@@ -116,7 +116,7 @@
                 android:background="?android:attr/listDivider"/>
 
             <TextView
-                android:id="@+id/cancersrno4"
+                android:id="@+id/diarrhoeasrno4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Sr. No. : 4"
@@ -124,14 +124,14 @@
                 />
 
             <TextView
-                android:id="@+id/cancersrno4schedule"
+                android:id="@+id/diarrhoeasrno4schedule"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Schedule  =  Snacks"
                 android:textSize="15dp"
                 />
             <TextView
-                android:id="@+id/cancersrno4food"
+                android:id="@+id/diarrhoeasrno4food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Food = Pear Juice"
@@ -145,7 +145,7 @@
                 android:background="?android:attr/listDivider"/>
 
             <TextView
-                android:id="@+id/cancersrno5"
+                android:id="@+id/diarrhoeasrno5"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Sr. No. : 5"
@@ -153,14 +153,14 @@
                 />
 
             <TextView
-                android:id="@+id/cancersrno5schedule"
+                android:id="@+id/diarrhoeasrno5schedule"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Schedule  =  Evening Meal"
                 android:textSize="15dp"
                 />
             <TextView
-                android:id="@+id/cancersrno5food"
+                android:id="@+id/diarrhoeasrno5food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="Food = A Banana,white bread toast with Blueberry Jam.An Infusion of Chamomile "

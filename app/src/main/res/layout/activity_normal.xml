@@ -19,7 +19,7 @@
                 android:id="@+id/normal"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Diet Plan for Cancer:"
+                android:text="Diet Plan for Normal:"
                 android:textSize="20dp"
                 android:textStyle="bold"
                 />
