@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Diet Plus</string>
+
+    <string-array name="Disease">
+        <item>None</item>
+        <item>Anemia</item>
+        <item>Cancer</item>
+        <item>Diabetes</item>
+        <item>Diarrhoea</item>
+        <item>Food Poisioning</item>
+        <item>Heart Disease</item>
+        <item>Malnutrition</item>
+        <item>PCOS</item>
+        <item>Thyroid</item>
+    </string-array>
 </resources>
