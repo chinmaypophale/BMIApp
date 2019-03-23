@@ -47,7 +47,7 @@
                 android:id="@+id/thyroidsrno1food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food = Vegetable poha,1 glass of Buttermilk,5 Soaked almonds"
+                android:text="Food = Vegetable Poha,1 glass of Buttermilk,5 Soaked almonds"
                 android:textSize="15dp"
                 />
 

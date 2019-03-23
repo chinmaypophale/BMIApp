@@ -19,7 +19,7 @@ public class HomeFragment extends Fragment {
     Float fW, fH;
     TextView textBmi;
     Button bmiButton, dpbutton;
-    Float bmi;
+    Float bmi ;
     Spinner spinner;
 
 
@@ -34,8 +34,10 @@ public class HomeFragment extends Fragment {
 
         View v=inflater.inflate(R.layout.home_fragment, container, false);
         bmiButton = (Button) v.findViewById(R.id.bmibutton);
-        weight = (EditText) v.findViewById(R.id.editWeight);
-        height = (EditText) v.findViewById(R.id.editHeight);
+
+        weight = (EditText) v.findViewById(R.id.editWeight);    // stores weight
+        height = (EditText) v.findViewById(R.id.editHeight);    //stores height
+
         textBmi = (TextView) v.findViewById(R.id.bmi);
         spinner = (Spinner) v.findViewById(R.id.spinner);
         dpbutton = (Button) v.findViewById(R.id.dpButton);
@@ -59,8 +61,8 @@ public class HomeFragment extends Fragment {
                     return;
                 }
 
-                fW = Float.valueOf(weight.getText().toString());
-                fH = Float.valueOf(height.getText().toString());
+                fW = Float.valueOf(weight.getText().toString());    // converts weight into a float no
+                fH = Float.valueOf(height.getText().toString());    // converts height into a float no
 
 
                 if (fW == 0) {
@@ -108,7 +110,7 @@ public class HomeFragment extends Fragment {
                         Intent intent = new Intent(getActivity(),Obese.class);
                         getActivity().startActivity(intent);
                     }
-                }
+                }   // none
 
                 else if(spinner.getSelectedItem().toString().equals("Anemia")){
                     Intent intent = new Intent(getActivity(),Anaemia.class);
@@ -120,6 +122,11 @@ public class HomeFragment extends Fragment {
                     getActivity().startActivity(intent);
                 }
 
+                else if(spinner.getSelectedItem().toString().equals("Diarrhoea")){
+                    Intent intent = new Intent(getActivity(),Diarrhoea.class);
+                    getActivity().startActivity(intent);
+                }
+
                 else if(spinner.getSelectedItem().toString().equals("Diabetes")){
                     Intent intent = new Intent(getActivity(),Diabetes.class);
                     getActivity().startActivity(intent);
@@ -127,7 +134,7 @@ public class HomeFragment extends Fragment {
                 }
 
                 else if(spinner.getSelectedItem().toString().equals("Food Poisioning")){
-                    Intent intent = new Intent(getActivity(),Diarrhoea.class);
+                    Intent intent = new Intent(getActivity(),FoodPoisioning.class);
                     getActivity().startActivity(intent);
                 }
                 else if(spinner.getSelectedItem().toString().equals("Heart Disease")){
@@ -154,18 +161,5 @@ public class HomeFragment extends Fragment {
         });
         return v;
 
-     //   bmiButton.setOnClickListener(new View.OnClickListener() {
-         //   @Override
-       //     public void onClick(View v) {
-
-//        public void bmi(View v){
-//
-//
-
-//        }
-  //          }
-    //    });
-
-       // return inflater.inflate(R.layout.home_fragment, container, false);
     }
 }

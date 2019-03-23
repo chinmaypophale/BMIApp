@@ -27,7 +27,7 @@
         android:autoSizeTextType="uniform"
         android:textStyle="normal"
         android:text="Nutrition is a basic need for every individual and to maintain a healthy life a proper diet is essential.
-We, students of Modern Education Society College of Engineering, Pune have developed an app
+We, students of Modern Education Society's College of Engineering, Pune have developed an app
 “Diet Plus” which is used to suggest diet plans to the people based on their height, weight, BMI and
 disease which will help them to have a proper diet and maintain their health."
         android:textSize="20dp" />
