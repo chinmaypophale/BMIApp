@@ -79,7 +79,7 @@
                 android:id="@+id/overweightsrno2food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food =  2 Brown breads or 2 chapatis or 1 cup oats"
+                android:text="Food =  2 Brown breads or 1 cup oats"
                 android:textSize="15dp"
                 />
 
@@ -107,7 +107,7 @@
                 android:id="@+id/overweightsrno3food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food = Tomato + carrot salad, 1 roti, mix sabji,half bowl dal"
+                android:text="Food = Tomato + carrot salad, mix sabji, 1-2 phulkas, half bowl dal"
                 android:textSize="15dp"
                 />
 
@@ -165,7 +165,7 @@
                 android:id="@+id/overweightsrno5food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Green leafy vegetable,2-3 chapatis"
+                android:text="Green leafy vegetable, fruits"
                 android:textSize="15dp"
                 />
 

@@ -48,7 +48,7 @@
                 android:id="@+id/obesesrno1food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food = 2 eggs or mushroom omlet or cauliflower toast with avocado ,coconut milk "
+                android:text="Food = 2 eggs or mushroom omlet or cauliflower toast with avocado, coconut milk "
                 android:textSize="15dp"
                 />
 
@@ -78,7 +78,7 @@
                 android:id="@+id/obesesrno2food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food =  Tuna salad with celery and tomato,1 bowl cauliflower rice or hard boiled eggs"
+                android:text="Food =  Tuna salad and tomato,1 bowl cauliflower rice or hard boiled eggs"
                 android:textSize="15dp"
                 />
 
@@ -106,7 +106,7 @@
                 android:id="@+id/obesesrno3food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food = Coconut chicken curry or zucchini noodles or pork chop with vegetables or grilled salmon with spinach"
+                android:text="Food = 2 phulkas, 1 vegetable, sprouts and salad(brocolli)"
                 android:textSize="15dp"
                 />
 
