@@ -1656,6 +1656,19 @@
                 android:background="?android:attr/listDivider"/>
 
             <TextView
+                android:id="@+id/obesesrno1yoga"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Exercise Daily for 1 hour and do yoga."
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
                 android:id="@+id/obesesrno1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -1674,7 +1687,7 @@
                 android:id="@+id/obesesrno1food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food = 2 eggs or mushroom omlet or cauliflower toast with avocado ,coconut milk "
+                android:text="Food = 2 eggs or mushroom omlet or cauliflower toast with avocado, coconut milk "
                 android:textSize="15dp"
                 />
 
@@ -1704,7 +1717,7 @@
                 android:id="@+id/obesesrno2food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food =  Tuna salad with celery and tomato,1 bowl cauliflower rice or hard boiled eggs"
+                android:text="Food =  Tuna salad and tomato,1 bowl cauliflower rice or hard boiled eggs"
                 android:textSize="15dp"
                 />
 
@@ -1732,11 +1745,9 @@
                 android:id="@+id/obesesrno3food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food = Coconut chicken curry or zucchini noodles or pork chop with vegetables or grilled salmon with spinach"
+                android:text="Food = 2 phulkas, 1 vegetable, sprouts and salad(brocolli)"
                 android:textSize="15dp"
                 />
-
-
 
 
 
@@ -1747,7 +1758,6 @@
 
 
             <!--overweight-->
-
             <TextView
                 android:id="@+id/overweight"
                 android:layout_width="match_parent"
@@ -1755,6 +1765,19 @@
                 android:text="Diet Plan for Overweight:"
                 android:textSize="20dp"
                 android:textStyle="bold"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
+                android:id="@+id/overweightsrno1yoga"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Exercise Daily for 1 hour and do Yoga "
+                android:textSize="15dp"
                 />
 
             <android.support.v4.widget.Space
@@ -1811,7 +1834,7 @@
                 android:id="@+id/overweightsrno2food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food =  2 Brown breads or 2 chapatis or 1 cup oats"
+                android:text="Food =  2 Brown breads or 1 cup oats"
                 android:textSize="15dp"
                 />
 
@@ -1839,7 +1862,7 @@
                 android:id="@+id/overweightsrno3food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Food = Tomato + carrot salad, 1 roti, mix sabji,half bowl dal"
+                android:text="Food = Tomato + carrot salad, mix sabji, 1-2 phulkas, half bowl dal"
                 android:textSize="15dp"
                 />
 
@@ -1897,9 +1920,10 @@
                 android:id="@+id/overweightsrno5food"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Green leafy vegetable,2-3 chapatis"
+                android:text="Green leafy vegetable, fruits"
                 android:textSize="15dp"
                 />
+
 
             <android.support.v4.widget.Space
                 android:layout_height="10dp"

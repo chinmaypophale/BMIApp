@@ -30,6 +30,19 @@
                 android:background="?android:attr/listDivider"/>
 
             <TextView
+                android:id="@+id/obesesrno1yoga"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Exercise Daily for 1 hour and do yoga."
+                android:textSize="15dp"
+                />
+
+            <android.support.v4.widget.Space
+                android:layout_height="10dp"
+                android:layout_width="match_parent"
+                android:background="?android:attr/listDivider"/>
+
+            <TextView
                 android:id="@+id/obesesrno1"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
