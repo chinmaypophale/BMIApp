@@ -1,0 +1,22 @@
+
+   Diet Plan for Food Poisoning:
+
+Sr No     =  1
+Schedule  =  Pre-breakfast
+Food      =  2 Plain toasts,Half Bowl Yoghurt,1 Banana 
+
+Sr No     =  2
+Schedule  =  Breakfast
+Food      =  If Required Oat meal otherwise do not eat 
+
+Sr No     =  3
+Schedule  =  Lunch
+Food      =  Rice,Plain potato Sabji(Avoid chapati,Fried Food) 
+
+Sr No     =  4
+Schedule  =  Snacks
+Food      =  2 boiled Eggs or 2 Breads with Apple jam 
+
+Sr No     =  5
+Schedule  =  Dinner
+Food      =  Rice,cereals 

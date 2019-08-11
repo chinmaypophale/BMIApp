@@ -1,0 +1,22 @@
+
+   Diet Plan for Malnutrition:
+
+Sr No     =  1
+Schedule  =  Pre-breakfast
+Food      =  Apple Juice or Orange Juice,5-6 Almonds 
+
+Sr No     =  2
+Schedule  =  Breakfast
+Food      =  17g Oats,1 cup Chocolate milk 
+
+Sr No     =  3
+Schedule  =  Lunch
+Food      =  Spinach,broccoli,Mushroom,legumes,1 Wheat Chapati,Half bowl Yoghurt 
+
+Sr No     =  4
+Schedule  =  Snacks
+Food      =  Watermelon Juice,5-6 Almonds 
+
+Sr No     =  5
+Schedule  =  Dinner
+Food      =  Any leafy green vegetables,Half bowl Brown Rice,1-2 Chapati 

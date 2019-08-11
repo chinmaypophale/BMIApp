@@ -1,0 +1,14 @@
+
+   Diet Plan for Obese People:
+
+Sr No     =  1
+Schedule  =  Breakfast
+Food      =  2 eggs or mushroom omlet or cauliflower toast with avocado ,coconut milk 
+
+Sr No     =  2
+Schedule  =  Lunch
+Food      =  Tuna salad with celery and tomato,1 bowl cauliflower rice or hard boiled eggs 
+
+Sr No     =  3
+Schedule  =  Dinner
+Food      =  Coconut chicken curry or zucchini noodles or pork chop with vegetables or grilled salmon with spinach 

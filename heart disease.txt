@@ -1,0 +1,22 @@
+
+   Diet Plan for Heart Disease:
+
+Sr No    =  1
+Schedule =  Breakfast
+Food     =  Warm water with half teaspoon Cumin seeds, Skimmed milk,oats upma 
+
+Sr No    =  2
+Schedule =  Midmeal
+Food     =  Carrot juice,Fruits 
+
+Sr No    =  3
+Schedule =  Lunch
+Food     =  Cucumber,Phulka,mixed vegetables,dal and butter. 
+
+Sr No    =  4
+Schedule =  Snacks
+Food     =  Fruits,Garlic,Khakra 
+
+Sr No    =  5
+Schedule =  Dinner
+Food     =  Same as lunch 

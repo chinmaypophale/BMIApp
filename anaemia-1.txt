@@ -1,0 +1,22 @@
+
+    Diet Plan for Anaemia:
+
+Sr No     =  1
+Schedule  =  Pre-breakfast
+Food      =  1 Bowl fruits,pure dark chocolate  
+
+Sr No     =  2
+Schedule  =  Breakfast
+Food      =  Strawberries with Yoghurt,Sunflower seeds(Avoid tea,Coffee) 
+
+Sr No     =  3
+Schedule  =  Lunch
+Food      =  A bagel(Bread)with smoked salmon,Cream Cheese & Spinach,2 Wheat roti,1 Bowl beans,whole grains 
+
+Sr No     =  4
+Schedule  =  Snacks
+Food      =  Juice of Leafy Vegetables,Dark Chocolate 
+
+Sr No     =  5
+Schedule  =  Dinner
+Food      =  1-2 Roti,boiled Potatoes,steamed Broccoli & leaf cabbage 

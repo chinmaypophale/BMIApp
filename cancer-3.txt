@@ -1,0 +1,23 @@
+    
+    Diet Plan for Cancer:
+
+
+Sr No     =  1
+Schedule  =  Pre-Breakfast
+Food      =  Green Tea, Juice of 5-6 Madagascar Periwinkle(Sadabahar) leaves + 2 Spoon Tomato 
+
+Sr No     =  2
+Schedule  =  Breakfast
+Food      =  1 bowl of grapes + Kiwi + Berries 
+
+Sr No     =  3
+Schedule  =  Lunch
+Food      =  1 Multigrain Roti, broccoli, tomato, spinach,half bowl yoghurt 
+
+Sr No     =  4
+Schedule  =  Snacks
+Food      =  1 bowl of pomegranate 
+
+Sr No     =  5
+Schedule  =  Dinner
+Food      =  2 Phulkas,mushroom vegetable,spinach,garlic chutney or half bowl brown rice,vegetable pulav 

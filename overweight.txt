@@ -1,0 +1,22 @@
+
+   Diet Plan for Overweight People:
+
+Sr No     =  1
+Schedule  =  Pre-breakfast
+Food      =  5-6 almonds 
+
+Sr No     =  2
+Schedule  =  Breakfast
+Food      =  2 Brown breads or 2 chapatis or 1 cup oats 
+
+Sr No     =  3
+Schedule  =  Lunch
+Food      =  Tomato+carrot salad, 1 roti, mix sabji,half bowl dal 
+
+Sr No     =  4
+Schedule  =  Snacks
+Food      =  5-6 almonds or 1 glass milk. 
+
+Sr No     =  5
+Schedule  =  Dinner
+Food      =  Green leafy vegetable,2-3 chapatis 

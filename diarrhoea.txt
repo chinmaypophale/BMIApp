@@ -1,0 +1,22 @@
+
+   Diet Plan for Diarrhoea:
+
+Sr No=  1
+Schedule=  Breakfast
+Food=  Boil an apple,two slices of white bread.Drink an infusion of sage leaves 
+
+Sr No=  2
+Schedule=  Brunch
+Food=  Carrot juice 
+
+Sr No=  3
+Schedule=  Lunch
+Food=  White rice with a bit of olive oil.A boiled apple and two slices of white bread.Infusion of sage leaves 
+
+Sr No=  4
+Schedule=  Snack
+Food=  Pear Juice 
+
+Sr No=  5
+Schedule=  Evening meal
+Food=  A Banana,white bread toast with Blueberry Jam.An Infusion of Chamomile 

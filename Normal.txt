@@ -1,0 +1,22 @@
+
+   Diet Plan for Normal People:
+
+Sr No     =  1
+Schedule  =  Prebreakfast
+Food      =  Vegetables Juice,1-Glass coconut Water or Cucumber Juice 
+
+Sr No     =  2
+Schedule  =  Breakfast
+Food      =  1 bowl Freash seasonal Fruits(avoid bananas). 
+
+Sr No     =  3
+Schedule  =  Lunch
+Food      =  2 Chapatis,Any leafy vegetables(Avoid rajma,chana),Half bowl Brown rice 
+
+Sr No     =  4
+Schedule  =  Snacks
+Food      =  Herbal Tea or Fresh Juice of Any Vegetables,coconut slices(If hungry) 
+
+Sr No     =  5
+Schedule  =  Dinner
+Food      =  Vegetables salad,soup(without oil) 

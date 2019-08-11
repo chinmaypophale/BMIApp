@@ -1,0 +1,22 @@
+
+   Diet Plan for Thyroid:
+
+Sr No     =  1
+Schedule  =  Pre-Breakfast
+Food      =  Vegetable poha,1 glass of Buttermilk,5 Soaked almonds 
+
+Sr No     =  2
+Schedule  =  Breakfast
+Food      =  Bowl of fruit chaat 
+
+Sr No     =  3
+Schedule  =  Lunch
+Food      =  Bowl of salad, Dal, some seasonal cooked vegetables, whole wheat chapati 
+
+Sr No     =  4
+Schedule  =  Snacks
+Food      =  Sprout chaat or fruit with curd 
+
+Sr No     =  5
+Schedule  =  Dinner
+Food      =  Bowl of soup or salad,Bowl of Vegetables,Whole wheat chapati 

@@ -1,0 +1,22 @@
+
+   Diet Plan for Underweight people:
+
+Sr No     =  1
+Schedule  =  Pre-breakfast
+Food      =  1 cup of tea or coffee with full cream milk and 2 biscuits. 
+
+Sr No     =  2
+Schedule  =  Breakfast
+Food      =  1 Orange,cereal with milk and sugar,1 boiled egg,whole wheat toast 
+
+Sr No     =  3
+Schedule  =  Lunch
+Food      =  Half cup soup,meat or fish or poultry,potato or rice,vegetable or salad. 
+
+Sr No     =  4
+Schedule  =  Snacks
+Food      =  2 breads with cheese 
+
+Sr No     =  5
+Schedule  =  Dinner
+Food      =  Same as Lunch. 

@@ -1,0 +1,22 @@
+
+    Diet Plan for Diabetes:
+
+Sr No     =  1
+Schedule  =  Prebreakfast
+Food      =  Fenugreek seeds in boiled water 
+
+Sr No     =  2
+Schedule  =  Breakfast
+Food      =  Oats,Stuff methi,2 eggs,1 cup warm water with lemon 
+
+Sr No     =  3
+Schedule  =  Lunch
+Food      =  Salad(Cucumber+Tomato),2 Phulkas,1 bowl dal,curd,any vegetable 
+
+Sr No     =  4
+Schedule  =  Snacks
+Food      =  Milk or lemon water or green tea. 
+
+Sr No     =  5
+Schedule  =  Dinner
+Food      =  Salad,Bajra or Jowar roti,green leafy vegetable. 
